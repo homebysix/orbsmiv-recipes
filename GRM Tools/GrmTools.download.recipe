@@ -12,8 +12,6 @@
 	<dict>
 		<key>TOOLSET</key>
 		<string>Classic</string>
-		<key>DOWNLOAD_URL</key>
-		<string>http://www.inagrm.com/grm-tools-download</string>
 		<key>NAME</key>
 		<string>GRM_Tools</string>
 	</dict>

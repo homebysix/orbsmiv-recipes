@@ -8,8 +8,6 @@
 		<string>com.github.orbsmiv.pkg.LilyPond</string>
 		<key>Input</key>
 		<dict>
-			<key>DOWNLOAD_URL</key>
-			<string>http://lilypond.org/macos-x.html</string>
 			<key>NAME</key>
 			<string>LilyPond</string>
 		</dict>
